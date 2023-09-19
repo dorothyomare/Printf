@@ -1,0 +1,10 @@
+#include "main.h"
+/**
+* hey_putchar - prints a character
+* @c: this is the character input
+* Return: 
+*/
+int hey_putchar(char c)
+{
+            return (write(1, &c, 1));
+}
