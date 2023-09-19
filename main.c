@@ -42,4 +42,7 @@ int main(void)
     printf("Unknown:[%r]\n");
     return (0);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> d5d9fd46c5cac660b474a9987329745c7ac3ae67
